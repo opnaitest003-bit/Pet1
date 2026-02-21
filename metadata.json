@@ -1,0 +1,5 @@
+{
+  "name": "VetCare Modern Clinic",
+  "description": "A clear, modern, and intuitive platform for a premium veterinary clinic, focused on aesthetic excellence and conversion.",
+  "requestFramePermissions": ["geolocation"]
+}
